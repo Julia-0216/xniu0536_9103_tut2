@@ -22,7 +22,7 @@ my first repo for idea9103
 
 [link text](http;/www.google.com)
 
-![an image of cat]()![alt text](363F6235-4016-42CF-8EC8-65E79EF66B36.jpeg)
+![an image of cat](363F6235-4016-42CF-8EC8-65E79EF66B36.jpeg)
 
 i will call the draw() function.
 
