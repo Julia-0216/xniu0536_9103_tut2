@@ -1,29 +1,14 @@
-# xniu0536_9103_tut2
-my first repo for idea9103
+Part 1: Imaging Technique Inspiration
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+I was inspired by the “text particle explosion” effect from kinetic typography and motion graphics in films. The transition from orderly text to dispersed flying fragments creates a powerful visual impact. I would like to incorporate this technique because it conveys transformation and energy, which aligns well with the assignment’s goal of exploring dynamic visual effects. Even if challenging, it offers strong inspiration for combining typography with motion.
 
-**Bold Text** or _Bold Text_
-*Italic Text* or _Italic Text_
+Example Screenshots:
+![an image of eaxmple](image_1.jpg)
+![an image of eaxmple](image_2.jpg)
 
-- Item 1
-- Item 2
+Part 2: Coding Technique Exploration
 
+To achieve this, I would apply p5.js vector-based techniques. Using p5.Vector methods (.add(), .normalize(), .mult()) lets each letter act as a particle influenced by velocity and acceleration. Functions like random() introduce variation, while map() controls explosion strength by distance, and alpha blending produces smooth trails. This coding technique gives precise control over dispersal direction and decay, making the explosion visually engaging and aligned with the chosen imaging effect.
 
-1. First item
-2. Second item
-3. New item
-4. Third item
-
-[link text](http;/www.google.com)
-
-![an image of cat](363F6235-4016-42CF-8EC8-65E79EF66B36.jpeg)
-
-i will call the draw() function.
-
-function draw()
+![an image of implement](image_3.jpg)
+Link: https://p5js.org/examples/math-and-physics-smoke-particle-system/?utm_source=chatgpt.com
